@@ -12,14 +12,17 @@ public:
 
         // r -> right
         for (int r = 0; r < n; r++) {
+            //expand the window 
             if (nums[r] == 0)
                 zeros++;
 
+            //shrink the window
             while (zeros > k) {
                 if (nums[l] == 0)
                     zeros--;
                 l++;
             }
+            //get the size of a valid window
             ans = max(ans, r - l + 1);
         }
 
