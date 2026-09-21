@@ -10,6 +10,7 @@ class Solution {
 public:
     ListNode* detectCycle(ListNode* head) {
         // optimal
+        //Floyd's Cycle Detection II
 
         // using two pointers slow and fast
         ListNode* slow = head;
