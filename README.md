@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
