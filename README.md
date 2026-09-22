@@ -34,6 +34,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -73,4 +74,8 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
