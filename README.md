@@ -14,6 +14,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -33,6 +34,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
