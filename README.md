@@ -53,6 +53,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +134,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 <!---LeetCode Topics End-->
