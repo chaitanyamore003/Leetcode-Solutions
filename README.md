@@ -93,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +112,5 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
