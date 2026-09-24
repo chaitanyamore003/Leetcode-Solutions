@@ -19,6 +19,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
