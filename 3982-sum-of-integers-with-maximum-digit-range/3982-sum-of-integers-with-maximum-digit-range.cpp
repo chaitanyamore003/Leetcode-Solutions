@@ -16,24 +16,20 @@ private:
 public:
     int maxDigitRange(vector<int>& nums) {
         int n = nums.size();
-        //to track the maxRange
+        // to track the maxRange
         int maxRange = 0;
 
-        //to store the nums[i] and its range
-        vector<pair<int, int>> ranges(n);
+        int ans = 0;
 
         for (int i = 0; i < n; i++) {
             int range = digitRange(nums[i]);
-            maxRange = max(maxRange, range);
 
-            ranges[i] = {nums[i], range};
-        }
-
-        int ans = 0;
-        //add the elements with max Range
-        for (auto it : ranges) {
-            if (it.second == maxRange)
-                ans += it.first;
+            if (range > maxRange) {
+                maxRange = range;
+                ans = nums[i];
+            } else if (range == maxRange) {
+                ans += nums[i];
+            }
         }
 
         return ans;
