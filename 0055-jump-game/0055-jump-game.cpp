@@ -11,12 +11,17 @@ public:
             // we cannot reach the ith index
             if (i > farthest)
                 return false;
+            
 
+            //determining how far we can jump from here
             farthest = max(farthest, i + nums[i]);
 
+            //if we can jump pass the array return true
             if (farthest >= n)
                 return true;
         }
+
+        //we reached the last
         return true;
     }
 };
