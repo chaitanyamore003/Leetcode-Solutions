@@ -19,6 +19,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -122,4 +124,12 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 <!---LeetCode Topics End-->
