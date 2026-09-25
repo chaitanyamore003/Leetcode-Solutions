@@ -136,10 +136,12 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -157,4 +159,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
