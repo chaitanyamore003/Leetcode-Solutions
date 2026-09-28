@@ -12,8 +12,7 @@ public:
                 st.pop();
             }
             //this gives us maximum number of opening brakcets in a row
-            int ele = st.size();
-            ans = max(ans, ele);
+            ans = max(ans, (int)st.size());
         }
         return ans;
     }
