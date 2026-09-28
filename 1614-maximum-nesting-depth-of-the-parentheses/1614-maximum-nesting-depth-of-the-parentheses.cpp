@@ -2,17 +2,17 @@ class Solution {
 public:
     int maxDepth(string s) {
         int ans = 0;
-        stack<char> st;
+        int depth = 0;
 
     
         for(auto it : s){
-            //if opening braces push to stack
-            if(it == '(') st.push(it);
-            else if(it == ')'){ //if closing braces pop from stack
-                st.pop();
+            //if opening braces depth increases
+            if(it == '(') depth++;
+            else if(it == ')'){ //if closing braces depth reduces
+                depth--;
             }
             //this gives us maximum number of opening brakcets in a row
-            ans = max(ans, (int)st.size());
+            ans = max(ans, depth);
         }
         return ans;
     }
