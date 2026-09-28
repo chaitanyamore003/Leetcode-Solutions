@@ -2,7 +2,7 @@ class Solution {
 public:
     int buyChoco(vector<int>& prices, int money) {
         // using two minimums
-        int min1 = INT_MAX; int min2 = 0;
+        int min1 = INT_MAX; int min2 = INT_MAX;
         for(auto& it : prices){
             if(it < min1){
                 min2 = min1;
