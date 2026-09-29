@@ -9,44 +9,35 @@
  * };
  */
 class Solution {
-private:
-    int getLen(ListNode* head) {
-        int cnt = 0;
-        ListNode* temp = head;
-        while (temp) {
-            temp = temp->next;
-            cnt++;
-        }
-        return cnt;
-    }
-
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        int n = getLen(head);
+        // using two pointers
 
-        ListNode* l = head;
-        int i = 1;
+        // first find the left node
+        ListNode* left = head;
+        for (int i = 1; i < k; i++)
+            left = left->next;
 
-        // left pointer
-        while (i < k) {
-            l = l->next;
-            i++;
+        // now to find the right kth node
+        ListNode* fast = head;
+
+        // Move fast k nodes ahead.
+        // This creates a gap of k nodes between fast and right.
+        // When fast reaches nullptr, right will be at the kth node
+        // from the end.
+        for (int i = 0; i < k; i++)
+            fast = fast->next;
+
+        ListNode* right = head;
+        while (fast) {
+            right = right->next;
+            fast = fast->next;
         }
 
-        i = n;
-        ListNode* r = head;
-        // right pointer
-        while (i > k) {
-            r = r->next;
-            i--;
-        }
-
-        if(!r || !l) return nullptr;
-
-        
-        int temp = l->val;
-        l->val = r->val;
-        r->val = temp;
+        // now swap both
+        int temp = left->val;
+        left->val = right->val;
+        right->val = temp;
 
         return head;
     }
