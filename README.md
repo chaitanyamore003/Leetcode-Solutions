@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
