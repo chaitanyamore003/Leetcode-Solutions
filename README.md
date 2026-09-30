@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
