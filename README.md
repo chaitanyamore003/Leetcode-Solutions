@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0125-valid-palindrome](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -31,6 +32,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
