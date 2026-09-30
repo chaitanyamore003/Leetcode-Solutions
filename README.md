@@ -59,6 +59,7 @@
 | [0039-combination-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0088-merge-sorted-array/) | Easy |
@@ -178,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0007-reverse-integer/) | Medium |
+| [0066-plus-one](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
