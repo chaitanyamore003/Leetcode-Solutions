@@ -116,6 +116,7 @@
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1009-complement-of-base-10-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0007-reverse-integer/) | Medium |
+| [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -191,4 +193,8 @@
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
