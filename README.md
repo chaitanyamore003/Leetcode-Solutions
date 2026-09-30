@@ -8,6 +8,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3618-split-array-by-prime-indices/) | Medium |
@@ -123,6 +125,7 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -176,6 +179,7 @@
 | [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3618-split-array-by-prime-indices/) | Medium |
