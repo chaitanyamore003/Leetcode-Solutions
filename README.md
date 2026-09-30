@@ -64,6 +64,7 @@
 | [0739-daily-temperatures](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -143,6 +144,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
