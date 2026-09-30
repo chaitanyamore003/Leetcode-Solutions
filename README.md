@@ -68,6 +68,7 @@
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
