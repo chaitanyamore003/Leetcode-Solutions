@@ -50,6 +50,7 @@
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -136,6 +137,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Math
@@ -183,6 +185,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
