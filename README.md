@@ -60,6 +60,7 @@
 | [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -140,16 +141,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0724-find-pivot-index/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
