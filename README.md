@@ -149,6 +149,7 @@
 | [0191-number-of-1-bits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1009-complement-of-base-10-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@
 | [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
