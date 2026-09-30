@@ -42,6 +42,7 @@
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
@@ -183,6 +184,7 @@
 | [0007-reverse-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -246,4 +248,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1672-richest-customer-wealth/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
