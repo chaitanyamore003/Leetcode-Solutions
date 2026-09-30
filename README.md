@@ -78,6 +78,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1672-richest-customer-wealth/) | Easy |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -241,4 +242,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
