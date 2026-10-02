@@ -91,6 +91,7 @@
 | [1672-richest-customer-wealth](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1672-richest-customer-wealth/) | Easy |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2293-min-max-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2293-min-max-game/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -273,4 +274,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
+| [2293-min-max-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2293-min-max-game/) | Easy |
 <!---LeetCode Topics End-->
