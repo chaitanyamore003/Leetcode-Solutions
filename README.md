@@ -10,6 +10,7 @@
 | [0290-word-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0645-set-mismatch](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0645-set-mismatch/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0890-find-and-replace-pattern/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -50,6 +51,7 @@
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0890-find-and-replace-pattern/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/1903-largest-odd-number-in-string/) | Easy |
@@ -83,6 +85,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0890-find-and-replace-pattern/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
