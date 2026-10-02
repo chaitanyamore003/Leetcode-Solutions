@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0645-set-mismatch](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -42,6 +43,7 @@
 | [0020-valid-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
