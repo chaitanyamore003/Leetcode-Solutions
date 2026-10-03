@@ -106,6 +106,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3618-split-array-by-prime-indices/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3697-compute-decimal-representation/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
@@ -129,11 +130,13 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +185,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/1903-largest-odd-number-in-string/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
