@@ -1,37 +1,28 @@
 class Solution {
-private:
-    void merge(vector<int>& arr, int l, int mid, int r) {
-        int i = l;
-        int j = mid+1;
-
-        vector<int> temp;
-        while (i <= mid && j <= r) {
-            if (arr[i] <= arr[j])
-                temp.push_back(arr[i++]);
-            else
-                temp.push_back(arr[j++]);
-        }
-
-        while(i <= mid) temp.push_back(arr[i++]);
-        while(j <= r) temp.push_back(arr[j++]);
-
-        for (int k = 0; k < temp.size(); k++) {
-            arr[l + k] = temp[k];
-        }
-    }
-    void mergeSort(vector<int>& arr, int s, int e) {
-        if (s == e)
-            return;
-
-        int mid = s + (e - s) / 2;
-        mergeSort(arr, s, mid);
-        mergeSort(arr, mid + 1, e);
-        merge(arr, s, mid, e);
-    }
-
 public:
     vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size() - 1);
-        return nums;
+        int n = nums.size();
+        int mini = *min_element(nums.begin(), nums.end());
+        int maxi = *max_element(nums.begin(), nums.end());
+
+        // creating a bucket
+        vector<int> bucket(maxi - mini + 1, 0);
+
+        // filling the bucket
+        for (auto it : nums) {
+            bucket[it - mini]++;
+        }
+
+        vector<int> ans;
+
+        // emptying the bucket
+        for (int i = 0; i < bucket.size(); i++) {
+            while (bucket[i]--) {
+                ans.push_back(i + mini);
+            }
+        }
+
+        // return sorted array
+        return ans;
     }
 };
