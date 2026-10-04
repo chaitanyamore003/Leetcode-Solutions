@@ -60,6 +60,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/1903-largest-odd-number-in-string/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [4006-count-valid-prefixes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -206,12 +207,14 @@
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +222,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0724-find-pivot-index/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
