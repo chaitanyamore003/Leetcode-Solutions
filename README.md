@@ -36,6 +36,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2460-apply-operations-to-an-array/) | Easy |
 | [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
@@ -96,6 +97,7 @@
 | [0890-find-and-replace-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0890-find-and-replace-pattern/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -136,6 +138,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
