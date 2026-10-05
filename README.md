@@ -85,6 +85,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0162-find-peak-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -208,6 +209,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
