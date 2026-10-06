@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -52,6 +53,7 @@
 | [0020-valid-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0125-valid-palindrome/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -195,6 +197,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
@@ -229,6 +232,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -348,4 +352,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
