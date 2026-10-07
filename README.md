@@ -39,6 +39,7 @@
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0541-reverse-string-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -62,6 +63,7 @@
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
+| [0541-reverse-string-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0856-score-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0890-find-and-replace-pattern/) | Medium |
