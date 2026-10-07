@@ -120,6 +120,7 @@
 | [1672-richest-customer-wealth](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1672-richest-customer-wealth/) | Easy |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2293-min-max-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2293-min-max-game/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2348-number-of-zero-filled-subarrays/) | Medium |
