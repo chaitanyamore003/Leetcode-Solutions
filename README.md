@@ -143,6 +143,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2293-min-max-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2293-min-max-game/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -180,6 +181,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
