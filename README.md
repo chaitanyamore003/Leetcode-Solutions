@@ -95,6 +95,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0054-spiral-matrix](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
@@ -352,10 +353,12 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
