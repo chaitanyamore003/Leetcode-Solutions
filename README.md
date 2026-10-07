@@ -73,6 +73,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/1903-largest-odd-number-in-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2810-faulty-keyboard](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -356,6 +357,7 @@
 | [2293-min-max-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2293-min-max-game/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2460-apply-operations-to-an-array/) | Easy |
+| [2810-faulty-keyboard](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
