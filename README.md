@@ -29,6 +29,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
@@ -90,6 +91,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
@@ -229,6 +231,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
