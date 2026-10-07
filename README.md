@@ -5,6 +5,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0205-isomorphic-strings/) | Easy |
@@ -95,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
