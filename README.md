@@ -89,6 +89,7 @@
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@
 | [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -240,6 +242,7 @@
 | [0011-container-with-most-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0605-can-place-flowers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -259,6 +262,7 @@
 | [0162-find-peak-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -275,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0724-find-pivot-index/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
