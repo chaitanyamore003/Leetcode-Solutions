@@ -3,27 +3,37 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n = nums.size();
         sort(nums.begin(), nums.end());
-        set<vector<int>> ans;
+        vector<vector<int>> ans;
 
         // more optimal
         for (int i = 0; i < n - 2; i++) {
+            // skip duplicates
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+
             int l = i + 1;
             int r = n - 1;
 
             while (l < r) {
                 int total = nums[i] + nums[l] + nums[r];
                 if (total == 0) {
-                    ans.insert({nums[i], nums[l], nums[r]});
+                    ans.push_back({nums[i], nums[l], nums[r]});
 
-                    //search for more triplets for same i position
+                    // search for more triplets for same i position
                     l++;
                     r--;
+
+                    // skip duplicates
+                    while (l < r && nums[l] == nums[l - 1])
+                        l++;
+                    while (l < r && nums[r] == nums[r + 1])
+                        r--;
                 } else if (total < 0)
                     l++;
                 else
                     r--;
             }
         }
-        return vector<vector<int>>(ans.begin(), ans.end());
+        return ans;
     }
 };
