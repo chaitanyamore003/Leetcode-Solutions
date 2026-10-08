@@ -20,6 +20,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [4006-count-valid-prefixes](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4006-count-valid-prefixes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
