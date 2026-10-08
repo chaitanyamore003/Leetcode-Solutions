@@ -18,6 +18,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -86,6 +87,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/1903-largest-odd-number-in-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -351,6 +353,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Number Theory
