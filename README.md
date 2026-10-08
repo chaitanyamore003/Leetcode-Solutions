@@ -92,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -112,6 +113,7 @@
 | [0041-first-missing-positive](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0053-maximum-subarray](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0066-plus-one/) | Easy |
@@ -173,6 +175,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
