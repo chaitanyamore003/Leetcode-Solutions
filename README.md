@@ -45,6 +45,7 @@
 | [0541-reverse-string-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -72,6 +73,7 @@
 | [0541-reverse-string-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/0890-find-and-replace-pattern/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -317,6 +319,7 @@
 | [0020-valid-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -389,6 +392,7 @@
 | [0054-spiral-matrix](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
+| [0844-backspace-string-compare](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2293-min-max-game](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2293-min-max-game/) | Easy |
