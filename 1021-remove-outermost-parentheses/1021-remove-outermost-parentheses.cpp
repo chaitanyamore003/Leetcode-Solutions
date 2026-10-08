@@ -1,26 +1,32 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
+        int depth = 0; // Tracks the current nesting level
+
         string ans = "";
-        string inside = "";
-        int open = 0, close = 0;
 
         for (auto it : s) {
-            if (it == '(' && open == close) {
-                ans += inside;
-                inside = "";
-                close = 0;
-                open = 1;
-            } else if (it == '(') {
-                open++;
-                inside += it;
-            } else if (it == ')') {
-                close++;
-                if (close < open)
-                    inside += it;
+
+            if (it == '(') {
+
+                // If depth > 0, this '(' is not the outermost
+                if (depth > 0)
+                    ans += it;
+
+                // Increase depth after processing '('
+                depth++;
+
+            } else {
+
+                // Decrease depth before processing ')'
+                depth--;
+
+                // If depth > 0, this ')' is not the outermost
+                if (depth > 0)
+                    ans += it;
             }
         }
-        ans += inside;
+
         return ans;
     }
 };
