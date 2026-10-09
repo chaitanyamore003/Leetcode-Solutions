@@ -1,4 +1,3 @@
-#include<algorithm>
 class MinStack {
 public:
     stack<pair<int, int>> st;
