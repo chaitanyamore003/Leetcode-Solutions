@@ -26,6 +26,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -35,6 +36,7 @@
 | [0011-container-with-most-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
