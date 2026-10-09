@@ -28,6 +28,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
