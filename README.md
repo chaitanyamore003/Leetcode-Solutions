@@ -81,6 +81,7 @@
 | [0344-reverse-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -350,6 +351,7 @@
 | [0020-valid-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0394-decode-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -418,6 +420,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0231-power-of-two/) | Easy |
+| [0394-decode-string](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Matrix
