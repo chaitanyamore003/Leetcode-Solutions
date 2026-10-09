@@ -346,6 +346,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -389,6 +390,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
