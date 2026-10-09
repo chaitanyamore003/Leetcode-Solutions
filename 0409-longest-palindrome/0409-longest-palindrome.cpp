@@ -11,20 +11,20 @@ public:
             }
         }
 
-        bool singleTaken = false;
+        bool hasOdd = false;
         int ans = 0;
         for (int i = 0; i < 52; i++) {
             if (freq[i] & 1) {
-                if (singleTaken == false) { // take odd freq once
-                    ans += freq[i];
-                    singleTaken = true;
-                } else {
-                    ans += (freq[i] - 1); // only take even part
-                }
+                hasOdd = true;
+                ans += (freq[i] - 1); // only take the even part
             } else {
                 ans += freq[i]; // take all even freq
             }
         }
+
+        // take one odd freq
+        if (hasOdd)
+            ans++;
 
         return ans;
     }
