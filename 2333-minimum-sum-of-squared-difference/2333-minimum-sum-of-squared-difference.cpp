@@ -4,36 +4,59 @@ public:
                                int k2) {
         int n = nums1.size();
 
-        // size of array is 10^5 and all set to zero
-        vector<int> diffFreq(1e5 + 1, 0);
+        // finding the diff of all n elements
+        vector<long long> diff(n, 0);
+
+        // maximum difference so far
+        long long maxi = 0;
 
         for (int i = 0; i < n; i++) {
-            int d = abs(nums1[i] - nums2[i]);
-            diffFreq[d]++;
+            long long d = abs(1LL * (nums1[i] - nums2[i]));
+            diff[i] = d;
+            maxi = max(maxi, d);
         }
 
-        // total operations
-        long long K = k1 + k2;
+        // now we define the vector of size maxi + 1 so we can count the freq of
+        // diff
 
-        // traverse from backwards
-        for (int i = 1e5; i > 0 && K > 0; i--) {
-            // maximum operations we can perform
-            int countOps = min((int)K, diffFreq[i]);
+        vector<long long> diffCnt(maxi + 1, 0);
 
-            // reduce the freq of curr diff
-            diffFreq[i] -= countOps;
-            // increase the freq of one before index
-            diffFreq[i - 1] += countOps;
-            // reduce the operations
-            K -= countOps;
+        // filling the vector
+        for (int i = 0; i < n; i++) {
+            diffCnt[diff[i]]++;
         }
 
-        //get the final sum of squares of differences
+        // total actions we can perform
+        long long actions = k1 + k2;
+
+        // now because we want to eleminate larger diff first, we traverse from
+        // back
+        for (int i = maxi; i > 0; i--) {
+            // maximum operations we can perform currently
+            long long currAct = min((int)actions, (int)diffCnt[i]);
+
+            // we reduce the current diff
+            diffCnt[i] -= currAct;
+
+            // add the diff freq in previos element
+            diffCnt[i - 1] += currAct;
+
+            // reduce the actions performed
+            actions -= currAct;
+        }
+
+        // now finally after all the actions are been performed we calculate the
+        // sum
         long long ans = 0;
 
-        for (int i = 1; i <= 1e5; i++) {
-            ans += (1LL * diffFreq[i] * (1LL * i * i));
+        for (int i = 1; i <= maxi; i++) {
+            // i is the diff
+            //and diffCnt[i] is its freq
+            long long square = 1LL * diffCnt[i] * (1LL * i * i);
+
+            ans += square;
         }
+
         return ans;
     }
 };
