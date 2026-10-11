@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* doubleIt(ListNode* head) {
-        // optimized approach
+        // 1st approach
         // 1 --> traverse on the list and fill the elements in the stack to use
         // LIFO 2 --> build the list by doubling the values in stack 3 --> but
         // the list will be in reversed order 4 --> reverse the list and return
@@ -57,6 +57,8 @@ public:
         }
 
         // return the reveresed list
-        return prev;
+        ListNode* ans = prev;
+        delete dummy;
+        return ans;
     }
 };
