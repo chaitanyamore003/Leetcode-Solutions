@@ -9,56 +9,50 @@
  * };
  */
 class Solution {
+private:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* temp = head;
+        ListNode* prev = nullptr;
+        while (temp) {
+            ListNode* next = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = next;
+        }
+        return prev;
+    }
+
 public:
     ListNode* doubleIt(ListNode* head) {
-        // 1st approach
-        // 1 --> traverse on the list and fill the elements in the stack to use
-        // LIFO 2 --> build the list by doubling the values in stack 3 --> but
-        // the list will be in reversed order 4 --> reverse the list and return
-        // the head of reversed list
+        // first reverse the list
+        ListNode* temp = reverseList(head);
 
-        ListNode* temp = head;
-        stack<int> st;
-        // filling values in stack
+        // retain the head of the list
+        ListNode* reversedHead = temp;
+
+        // now create the list with value doubled
+        int carry = 0;
         while (temp) {
-            st.push(temp->val);
+            int sum = carry;
+            sum += (temp->val * 2);
+            temp->val = sum % 10;
+            carry = sum / 10;
             temp = temp->next;
         }
 
-        // buidling the list by doubling the number
-        int carry = 0;
-        ListNode* dummy = new ListNode(0);
-        ListNode* t = dummy;
-
-        while (!st.empty()) {
-            int sum = carry;
-            sum += (st.top() * 2);
-            st.pop();
-            ListNode* value = new ListNode(sum % 10);
-            t->next = value;
-            t = t->next;
-            carry = sum / 10;
-        }
-
+        //attach the carry if left
         if (carry) {
-            ListNode* value = new ListNode(carry);
-            t->next = value;
+            ListNode* node = new ListNode(carry);
+            ListNode* tail = reversedHead;
+
+            while (tail->next) {
+                tail = tail->next;
+            }
+
+            tail->next = node;
         }
 
-        // the list is created but the list needs to be reversed
-        t = dummy->next;
-
-        ListNode* prev = nullptr;
-        while (t) {
-            ListNode* nextEle = t->next;
-            t->next = prev;
-            prev = t;
-            t = nextEle;
-        }
-
-        // return the reveresed list
-        ListNode* ans = prev;
-        delete dummy;
-        return ans;
+        // now reverse it again
+        return reverseList(reversedHead);
     }
 };
