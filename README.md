@@ -184,6 +184,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/2460-apply-operations-to-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3618-split-array-by-prime-indices/) | Medium |
@@ -384,6 +385,7 @@
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Number Theory
