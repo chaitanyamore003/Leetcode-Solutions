@@ -191,6 +191,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3618-split-array-by-prime-indices/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3697-compute-decimal-representation/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [4001-aggregate-two-time-series](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4001-aggregate-two-time-series/) | Medium |
@@ -226,6 +227,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -294,6 +296,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Binary Search
