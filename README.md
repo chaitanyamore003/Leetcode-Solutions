@@ -24,6 +24,7 @@
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3618-split-array-by-prime-indices/) | Medium |
@@ -406,10 +408,12 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
