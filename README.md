@@ -26,6 +26,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3618-split-array-by-prime-indices/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/3697-compute-decimal-representation/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -229,6 +231,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/C++/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Heap (Priority Queue)
