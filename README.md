@@ -176,6 +176,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -225,6 +226,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -317,6 +319,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
