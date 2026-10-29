@@ -1,19 +1,17 @@
 class Solution {
 private:
-    int getPos(vector<int>& arr, int t, bool checkLeft) {
+    int getPos(vector<int>& arr, int t, bool searchLeft) {
         int s = 0;
         int e = arr.size() - 1;
-
         int ans = -1;
-
         while (s <= e) {
             int mid = s + (e - s) / 2;
 
             if (arr[mid] == t) {
                 ans = mid;
-                if (checkLeft) {
+                if (searchLeft)
                     e = mid - 1;
-                } else
+                else
                     s = mid + 1;
             } else if (arr[mid] < t)
                 s = mid + 1;
@@ -25,17 +23,14 @@ private:
 
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        int n = nums.size();
         sort(nums.begin(), nums.end());
-        int firstOcc = getPos(nums, target, true);
-        int lastOcc = getPos(nums, target, false);
+        int first = getPos(nums, target, true);
+        if(first == -1) return {};
+        int last = getPos(nums, target, false);
 
         vector<int> ans;
-        if (firstOcc == -1)
-            return ans;
-        for (int i = firstOcc; i <= lastOcc; i++) {
+        for (int i = first; i <= last; i++)
             ans.push_back(i);
-        }
         return ans;
     }
 };
