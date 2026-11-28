@@ -170,6 +170,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1470-shuffle-the-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1672-richest-customer-wealth/) | Easy |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
@@ -337,6 +338,7 @@
 | [0410-split-array-largest-sum](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/JavaScript/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/chaitanyamore003/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
